@@ -1,0 +1,6 @@
+D:\Projects\Open4051\Open4051\obj\x86\Debug\.NETFramework,Version=v4.5.AssemblyAttribute.cs
+D:\Projects\Open4051\Open4051\obj\x86\Debug\Open4051.gtk-gui.gui.stetic
+D:\Projects\Open4051\Open4051\bin\Debug\Open4051.exe.mdb
+D:\Projects\Open4051\Open4051\bin\Debug\Open4051.exe
+D:\Projects\Open4051\Open4051\obj\x86\Debug\Open4051.exe
+D:\Projects\Open4051\Open4051\obj\x86\Debug\Open4051.exe.mdb

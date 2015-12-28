@@ -1,0 +1,5 @@
+D:\Projects\Open4051\Open4051\bin\Debug\Open4051.exe
+D:\Projects\Open4051\Open4051\bin\Debug\Open4051.pdb
+D:\Projects\Open4051\Open4051\obj\x86\Debug\Open4051.csprojResolveAssemblyReference.cache
+D:\Projects\Open4051\Open4051\obj\x86\Debug\Open4051.exe
+D:\Projects\Open4051\Open4051\obj\x86\Debug\Open4051.pdb
